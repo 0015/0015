@@ -6,4 +6,4 @@ Welcome to That Project, a channel dedicated to showcasing exciting projects usi
 
 Our videos cover a variety of topics, from using ChatGPT to enhance your microcontroller projects, to creating projects using ESP32-CAM and LVGL. I also offer detailed tutorials on programming, hardware, and other aspects of microcontroller development, so you can dive into the world of IoT with confidence.
 
-Join our community of like-minded makers and innovators and discover the endless possibilities of microcontroller projects. Don't forget to subscribe to stay up-to-date with our latest videos and projects, and be sure to leave a comment if you have any questions or suggestions for future videos. [my channel.](https://www.that-project.com)
+Join our community of like-minded makers and innovators and discover the endless possibilities of microcontroller projects. Don't forget to subscribe to stay up-to-date with our latest videos and projects, and be sure to leave a comment if you have any questions or suggestions for future videos. [My Channel](https://www.that-project.com)
